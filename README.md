@@ -16,3 +16,9 @@ Classify digit in Extended MNIST
 • Implement Support Vector Machine classifier
 
 • Evaluate the performance matrices
+
+Code:
+https://colab.research.google.com/drive/1hj4Mzg_5s-oAXuN8cA65rvYKdLYjHbDw
+
+Video:
+
